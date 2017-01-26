@@ -8,6 +8,7 @@ package dundalgitex;
 /**
  *
  * @author Krzysztof Podlaski
+ * 
  */
 public class DundalGitEx {
 
@@ -16,6 +17,11 @@ public class DundalGitEx {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    }
+    void cormaclevins(String s)
+    {
+        System.out.println("Cormac Levins ");
+    
     }
     
 }

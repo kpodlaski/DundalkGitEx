@@ -21,8 +21,10 @@ public class DundalGitEx {
     public static void main(String[] args)
     {
        
-        
-        // TODO code application logic here
+
+    
+    void kpodlaskiM(String s){
+        System.out.println("....Something...");
     }
     
 }

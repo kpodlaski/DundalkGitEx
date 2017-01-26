@@ -32,10 +32,6 @@ public class DundalGitEx {
 
     }
     
-    void kpodlaskiM2(String s){
-        System.out.println("....Something...");
-
-    }
     
     
     

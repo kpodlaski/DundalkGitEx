@@ -14,6 +14,14 @@ public class DundalGitEx {
     /**
      * @param args the command line arguments
      */
+    void jnevin(String s)
+    {
+        System.out.println("Hello");
+    }
+    public static void main(String[] args)
+    {
+       
+    }
     
     void kpodlaskiM(String s){
         System.out.println("....Something...");
@@ -24,8 +32,5 @@ public class DundalGitEx {
     }
     
     
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
     
 }

@@ -15,8 +15,17 @@ public class DundalGitEx {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    void jnevin(String s)
+    {
+        System.out.println("Hello");
+    }
+    public static void main(String[] args)
+    {
+       
+
+    
+    void kpodlaskiM(String s){
+        System.out.println("....Something...");
     }
     void cormaclevins(String s)
     {

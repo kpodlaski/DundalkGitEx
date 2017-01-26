@@ -8,6 +8,7 @@ package dundalgitex;
 /**
  *
  * @author Krzysztof Podlaski
+ * 
  */
 public class DundalGitEx {
 
@@ -31,6 +32,9 @@ public class DundalGitEx {
         System.out.println("....Something...");
 
     }
+    void cormaclevins(String s)
+    {
+        System.out.println("Cormac Levins ");
     
     
     

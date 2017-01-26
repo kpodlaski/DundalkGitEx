@@ -21,14 +21,20 @@ public class DundalGitEx {
     public static void main(String[] args)
     {
        
+
     }
+
+
+
     
     void kpodlaskiM(String s){
         System.out.println("....Something...");
+
     }
     
     void kpodlaskiM2(String s){
         System.out.println("....Something...");
+
     }
     
     

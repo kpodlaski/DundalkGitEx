@@ -36,7 +36,10 @@ public class DundalGitEx {
     {
         System.out.println("Cormac Levins ");
     
+    }
     
+    void method2(){
+    }
     }
     
     void method3(){}
